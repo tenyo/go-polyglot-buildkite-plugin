@@ -1,0 +1,6 @@
+name: Go Polyglot
+description: An example plugin for using a binary hook written in Go
+author: https://github.com/buildkite
+configuration:
+  properties: {}
+  additionalProperties: false
